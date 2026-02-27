@@ -1,6 +1,6 @@
 # 🚀 Preetham Siddapura Umesh – Aspiring Top 1% AI & Big Data Engineer
 
-Hi! I’m **Preetham S U**, a Master’s student in **Artificial Intelligence & Big Data** based in Berlin, Germany.  
+Hi! I’m **Preetham Siddapura Umesh**, a Master’s student in **Artificial Intelligence & Big Data** based in Berlin, Germany.  
 I’m on a mission to become one of the most skilled engineers in the world — mastering **programming, AI, Big Data, and real-world systems**.  
 
 This repository is my **personal roadmap, projects, and progress tracker**.
